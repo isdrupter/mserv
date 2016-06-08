@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "salt": "IIMsa0DM5U5rYvsuh+mzgtMoxbwLJ7bWkFL3s2azK+YBZI6IoJgzdTZhQBtqv1PfIW6zrxktTH/H7pAlZGhXPA==",
+    "hash": "XfPsKPOcWURONFq5i+sT+UsxqDCBLyWJzqrm9EvL1l74IB0rUYvIrJp600lvl1IXEt8Ml57gchfdkuOmXwGeF6tAzMECK3GI2WTHHT75AY5QVMYbQ5efFD6/+ii4zWG5gz+KhoeYFjhg/DkGAg/fvrr9guKHVFeKWRA6rGmHKFU=",
+    "authorizePublish": "shell/*",
+    "authorizeSubscribe": "data/*"
+  },
+  "bot": {
+    "salt": "Os91ZgvFiG7T4lOAoixlhDTHT4N4vGiSXltTkZTw0IYtwiQvdj4wAKw00FzSpNC5ovUoowYQ+rDZ9RwOQFz3xg==",
+    "hash": "tacZ/swiLLss+XhbreGKxeGlzVq3JlGjjwFBKq1lnp3MyQlcxnwXueKVh/QVVx0KKtvNxM5cr5VuxoJzSz9JndBhMyXAdCBFmAgPTNCDUgl2hpoW0Y3v2hKZpkNT/IDsYg7loT8FeiuS9kmFu0GvK233XcdpjHEHaoJx9BeEA5k=",
+    "authorizePublish": "data/*",
+    "authorizeSubscribe": "shell/*"
+  }
+
